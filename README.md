@@ -1,6 +1,6 @@
 # KIET_AI_DebugChallenge
 
-# Bugs
+# Cleeared these Bugs
 Bug 2 → Crash immediately: vocabulary is empty since all text tokens are letters, never digits
 
 Bug 3 + 4 → Training runs but loss never decreases; accuracy stays near random (model gets zero-vector inputs and wrong gradients)
